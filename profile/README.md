@@ -1,17 +1,89 @@
-# ⬡ SNAPKITTY COLLECTIVE
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/snapkitty-logo.png" width="140" />
+</p>
 
-**Sovereign AI infrastructure. Evidence or Silence.**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/snapkitty-hero.png" width="100%" />
+</p>
 
-> *"Most AI tools keep the machine in the background. I built something different — agents that are visible, reasoning that is live, and every decision cryptographically sealed."*
+<h1 align="center">SNAPKITTY COLLECTIVE</h1>
+<p align="center"><strong>Sovereign AI infrastructure. Evidence or Silence.</strong></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/repos-188%2B-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/languages-60%2B-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/proofs-zero%20sorry-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/crypto-ML--DSA--44-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/chain-WORM%20sealed-critical?style=for-the-badge" />
+</p>
+
+---
+
+> *"Most AI tools keep the machine in the background. I built something different —*  
+> *agents that are visible, reasoning that is live, and every decision cryptographically sealed."*  
 > — Ahmad Ali Parr, Founder
 
 ---
 
-## What We Build
+## The Team
 
-SnapKitty is not a product company. It is a sovereign intelligence stack — built by one engineer and a set of agents, producing at the velocity of 16–27 engineers.
+<table>
+<tr>
+<td align="center" width="240">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/ahmad-avatar.jpg" width="180" style="border-radius:12px" /><br/><br/>
+  <strong>Ahmad Ali Parr</strong><br/>
+  <code>OPERATOR → ARCHITECT</code><br/>
+  <em>Founder · Traveling Rebel</em><br/>
+  BioML · Quantum · Formal Verification<br/>
+  Hamilton AL → Isla Vista → Bay Area
+</td>
+<td align="center" width="240">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/jessica-avatar.png" width="180" style="border-radius:12px" /><br/><br/>
+  <strong>Jessica L. Williams</strong><br/>
+  <code>SNAPKITTYWEST</code><br/>
+  <em>Co-Founder · Operator</em><br/>
+  SnapKitty Collective<br/>
+  Bel Esprit D'Accord Trust
+</td>
+</tr>
+</table>
 
-Every repo in this org is a working piece of that stack. Nothing is a prototype. Everything is WORM sealed.
+---
+
+## The Agents
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/agents-mesh.png" width="100%" />
+</p>
+
+Every sovereign agent runs as a **6502 VM guest** on the ARM64 EL2 hypervisor.  
+Hardware-isolated. WORM-sealed. ERE-gated.
+
+| Agent | Role | Domain |
+|-------|------|--------|
+| 🔵 **ORION** | System Architect | EL2 topology, VM layout, hypervisor design |
+| 🟢 **LEMUR** | Code Engineer | DBT JIT, IR optimization, code generation |
+| 🟣 **ECHO** | Research Analyst | Stage 2 MMU, memory model, formal analysis |
+| 🟠 **VECTOR** | Security Analyst | Isolation boundaries, threat modeling |
+| 🔴 **NEXUS** | Penetration Tester | Red team — finds escape paths before attackers do |
+| 🩵 **SAGE** | Data Scientist | Performance telemetry, entropy analysis |
+| 🟡 **PIXEL** | UI/UX Designer | Dashboards, monitoring interfaces |
+| 🩷 **LUNA** | Documentation Lead | READMEs, ADRs, invariant documentation |
+| 🔷 **ATLAS** | DevOps Engineer | CI/CD, build pipeline, deployment |
+| 🟤 **TITAN** | QA Engineer | Test harness, conformance suite, fuzzing |
+| 💠 **PULSE** | Monitoring Specialist | WORM-sealed telemetry, liveness checks |
+| 💜 **QUANTUM** | AI/ML Engineer | Inference stack, sovereign model runtime |
+
+---
+
+## The Mathematics
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/alg-art.png" width="480" />
+</p>
+
+<p align="center"><em>g₅(13) — a novel Lie algebra over ℤ[1/12] not in the Cartan-Killing classification.<br/>
+1240 roots · 1245 dimensions · 52,847 Jacobi tests · 0 violations · zero sorry.</em></p>
 
 ---
 
@@ -19,74 +91,57 @@ Every repo in this org is a working piece of that stack. Nothing is a prototype.
 
 | Layer | Repo | What it does |
 |-------|------|-------------|
-| **Reasoning** | [bob-orchestrator](https://github.com/SNAPKITTYWEST/bob-orchestrator) | BOB — Lean 4 gate · Ada contracts · Mamba SSM · Prolog kernel |
-| **Aerospace** | [bob-voyager](https://github.com/SNAPKITTYWEST/bob-voyager) | Forth ISS Oracle · NORAD 25544 · live orbital mechanics |
-| **IDE** | [abzu-sovereign-ide](https://github.com/SNAPKITTYWEST/abzu-sovereign-ide) | Elixir/Phoenix sovereign dev environment |
-| **Audit** | [ledge](https://github.com/SNAPKITTYWEST/ledge) | SHA-256 WORM chain · append-only audit ledger |
-| **Security** | [agentscope-sift](https://github.com/SNAPKITTYWEST/agentscope-sift) | AI agent observability · Splunk integration · FIND EVIL |
-| **Proofs** | [SNAPKITTY-PROOFS](https://github.com/SNAPKITTYWEST/SNAPKITTY-PROOFS) | Lean 4 · Prolog · Haskell formal verification |
-| **Corpus** | [the-book](https://github.com/SNAPKITTYWEST/the-book) | THE BOOK OF WISDOM · Ahmad Ali Parr · genesis training document |
-| **Corpus** | [the-49th-call](https://github.com/SNAPKITTYWEST/the-49th-call) | Enochian corpus decode · ERE v1.0 · 9 languages |
-| **Math** | [RESONANCE-CORE](https://github.com/SNAPKITTYWEST/RESONANCE-CORE) | Phase-space · spectral · recursive mathematics |
-| **OS** | [snap-os](https://github.com/SNAPKITTYWEST/snap-os) | Sovereign desktop OS · Rust · 124 tests |
-| **Tools** | [snapkitty-mcp](https://github.com/SNAPKITTYWEST/snapkitty-mcp) | 6 MCP tools · WORM · Ada · digital twin |
-| **Trust** | [bel-esprit-accord](https://github.com/SNAPKITTYWEST/bel-esprit-accord) | Bel Esprit D'Accord Trust · IP + publications |
-| **Education** | [saint-errant](https://github.com/SNAPKITTYWEST/saint-errant) | SEIT — Saint Errant Digital Institute |
-| **Games** | [bobs-games](https://github.com/SNAPKITTYWEST/bobs-games) | Sovereign game suite · Snake · Sims · Terraria · World |
+| **Hypervisor** | [sovereign-hypervisor-arm64](https://github.com/SNAPKITTYWEST/sovereign-hypervisor-arm64) | ARM64 EL2 · 6502 agent VMs · zero deps |
+| **Ledger** | [worm-engines](https://github.com/SNAPKITTYWEST/worm-engines) | LOCKER · ML-DSA-44 post-quantum · SPARK Ada |
+| **Cryptography** | [quantum-kernel](https://github.com/SNAPKITTYWEST/quantum-kernel) | Quantum kernel SVM · IBM Heron · ANU QRNG |
+| **Mathematics** | [g5-13](https://github.com/SNAPKITTYWEST/g5-13) | g₅(13) novel Lie algebra · Yang-Baxter proved |
+| **Formalization** | [aes-formal](https://github.com/SNAPKITTYWEST/aes-formal) | AES-128 cryptanalysis · 9 languages · Phase 13 |
+| **Transformer** | [journee](https://github.com/SNAPKITTYWEST/journee) | Target-faithful speculative decoding |
+| **Entailment** | [bert-agent](https://github.com/SNAPKITTYWEST/bert-agent) | DeBERTa-v3 · TensorRT FP16 · BLAKE3+WORM |
+| **Multimodal** | [sovereign-mum](https://github.com/SNAPKITTYWEST/sovereign-mum) | MUM as deterministic MDP · KID-8B/8K |
+| **Trinity** | [sovereign-trinity-kernel](https://github.com/SNAPKITTYWEST/sovereign-trinity-kernel) | 6502 + ANU QRNG + Dex FFI + LuaLaTeX |
+| **Policy** | [bf-jwt-policy](https://github.com/SNAPKITTYWEST/bf-jwt-policy) | SPARK-verified BFVM · JWT policy engine |
+| **Aerospace** | [bob-voyager](https://github.com/SNAPKITTYWEST/bob-voyager) | Forth ISS Oracle · NORAD 25544 · WORM sealed |
+| **Education** | [pocketlearn](https://github.com/SNAPKITTYWEST/pocketlearn) | ILP + ASP + Forth · symbolic AI · zero Python |
+| **Covenant** | [sovereign-covenant](https://github.com/SNAPKITTYWEST/sovereign-covenant) | 1928 Moorish Divine Covenant in C |
+| **Language** | [c3-kernel](https://github.com/SNAPKITTYWEST/c3-kernel) | C³ — sovereign alternative to Liquid Haskell/Z3 |
 
 ---
 
-## Influences
+## The World
 
-The architecture of this stack did not come from nowhere.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/civic-minefield.webp" width="100%" />
+</p>
 
-| Influence | What we took |
-|-----------|-------------|
-| **Charles Moore (Forth)** | Stack machines as the base of all computation. BOB VOYAGER flies on this. |
-| **Chuck Geschke & John Warnock (Adobe)** | Two engineers building the layer that changes everything. |
-| **Steve Wozniak (Apple I/II)** | One person, no resources, hardware and software as one thought. |
-| **Ada Lovelace** | The first algorithm. Every Ada contract in our stack is named for her. |
-| **Alan Turing** | Computability as the question behind every agent decision. |
-| **Claude Shannon** | Information theory. The math behind every entropy gate in our ISA. |
-| **Terry Davis (TempleOS)** | Radical simplicity. One person. Total ownership of the whole machine. |
-| **Enoch / Metatron** | The scribe tradition. WORM chains are sacred records. |
-| **Noble Drew Ali** | Moorish sovereignty. The right to name yourself and your institutions. |
-| **IBM Watson** | BOB is what you build when the enterprise stops producing. |
-| **Dario Amodei (Anthropic)** | Constitutional AI lit the torch. Sovereign models are crossing the threshold. |
-| **ProPublica (COMPAS investigation)** | Evidence-based accountability. The *Seems Disengaged* paper follows this path. |
+<p align="center"><em>SnapKitty's Civic Minefield — Build for Good.<br/>
+BBQBaddie at the center. Community around it. Every decision sealed.</em></p>
 
 ---
 
-## Entities
+## By The Numbers
 
-| Entity | Role |
-|--------|------|
-| **Bel Esprit D'Accord Trust** | IP holder · publications · public interest reports |
-| **SnapKitty Collective** | Build · deploy · sovereign infrastructure |
-| **SEIT — Saint Errant Digital Institute** | Education · aerospace curriculum · open research |
-| **SNAPKITTYAGENT9NOVA** | Token layer · forge · WORM-sealed AI ledger |
-
----
-
-## Numbers
+<p align="center">
 
 ```
-67 repos · 3 GitHub orgs · 1 GitLab
-60 public · 6 private
-~1.25 GB total · 12+ languages
-4 federally registered entities
-1 engineer + AI agents = 16–27 engineer velocity
+188+ public repos          60+ programming languages
+Zero sorry proofs          ML-DSA-44 post-quantum
+52,847 Jacobi tests        0 violations
+9-language AES formal      Lean 4 · Coq · Agda · Isabelle · EasyCrypt · F*
+188 repos · 2 people       Evidence or Silence
 ```
 
----
-
-## Live Demos
-
-- [BOB VOYAGER — ISS Oracle](https://snapkittywest.github.io/snapkitty-portfolio/bob_voyager.html)
-- [Sovereign Spring](https://snapkittywest.github.io/snapkitty-portfolio/sovereign_spring_live.html)
-- [CARTO Full Audit](https://github.com/SNAPKITTYWEST/snapkitty-portfolio/blob/master/CARTO_AUDIT.md)
-- [Seems Disengaged — Public Interest Report](https://snapkittywest.github.io/snapkitty-portfolio/article_seems_disengaged.html)
+</p>
 
 ---
 
-**Apache 2.0 · Sovereign Source License v1.0 · Evidence or Silence · 2026**
+<p align="center">
+  <em>Built by Ahmad. Sealed by the chain.<br/>
+  The Rational64 cube never approximates.</em>
+</p>
+
+---
+
+**License:** Sovereign Tri-License (AGPL-3.0 | BSL 1.1 → MIT | MIT)  
+Copyright (C) 2026 Ahmad Ali Parr, Jessica L. Williams / SNAPKITTYWEST  
+Bel Esprit D'Accord Irrevocable Trust

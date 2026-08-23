@@ -29,27 +29,26 @@
 
 <table>
 <tr>
-<td align="center" width="240">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/ahmad-avatar.jpg" width="180" style="border-radius:12px" /><br/><br/>
+<td align="center" width="220">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/ahmad-avatar.jpg" width="190" /><br/><br/>
   <strong>Ahmad Ali Parr</strong><br/>
-  <code>OPERATOR → ARCHITECT</code><br/>
-  <em>Founder · Traveling Rebel · Operator</em><br/>
-  BioML · Quantum · Formal Verification<br/>
-  Hamilton AL → Isla Vista → Bay Area
+  <code>OPERATOR &#8594; ARCHITECT</code><br/>
+  <em>Founder &middot; Traveling Rebel</em><br/>
+  BioML &middot; Quantum &middot; Formal Verification
 </td>
-<td align="center" width="240">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/jessica-avatar.png" width="180" style="border-radius:12px" /><br/><br/>
+<td align="center" width="220">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/jessica-avatar.png" width="190" /><br/><br/>
   <strong>Jessica L. Williams</strong><br/>
   <code>SNAPKITTYWEST</code><br/>
-  <em>Co-Founder · Operator</em><br/>
-  SnapKitty Collective<br/>
-  Bel Esprit D'Accord Trust
+  <em>Co-Founder &middot; Operator</em><br/>
+  SnapKitty Collective
 </td>
 <td align="center" width="220">
   <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/brandon-avatar.jpg" width="190" /><br/><br/>
   <strong>Brandon Westerhoff</strong><br/>
-  <code>GREY HAT</code><br/>
-  <em>Hardware Engineer &middot; Drone Builder</em>
+  <code>GREY HAT &middot; ARCHITECT</code><br/>
+  <em>Hardware Engineer &middot; Drone Builder</em><br/>
+  BBQBaddie &middot; Custom Silicon
 </td>
 </tr>
 </table>

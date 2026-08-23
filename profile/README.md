@@ -46,9 +46,9 @@
 <td align="center" width="220">
   <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/brandon-avatar.jpg" width="190" /><br/><br/>
   <strong>Brandon Westerhoff</strong><br/>
-  <code>GREY HAT &middot; ARCHITECT</code><br/>
-  <em>Hardware Engineer &middot; Drone Builder</em><br/>
-  BBQBaddie &middot; Custom Silicon
+  <code>ELECTRICAL ENGINEER &middot; HARDWARE TEAM</code><br/>
+  <em>Drone Builder &middot; Custom Silicon</em><br/>
+  BBQBaddie &middot; RTX 3080 &middot; Grey Hat
 </td>
 </tr>
 </table>

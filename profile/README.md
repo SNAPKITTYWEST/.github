@@ -33,7 +33,7 @@
   <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/ahmad-avatar.jpg" width="180" style="border-radius:12px" /><br/><br/>
   <strong>Ahmad Ali Parr</strong><br/>
   <code>OPERATOR → ARCHITECT</code><br/>
-  <em>Founder · Traveling Rebel</em><br/>
+  <em>Founder · Traveling Rebel · Operator</em><br/>
   BioML · Quantum · Formal Verification<br/>
   Hamilton AL → Isla Vista → Bay Area
 </td>

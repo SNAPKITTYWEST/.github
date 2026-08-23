@@ -45,6 +45,12 @@
   SnapKitty Collective<br/>
   Bel Esprit D'Accord Trust
 </td>
+<td align="center" width="220">
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/brandon-avatar.jpg" width="190" /><br/><br/>
+  <strong>Brandon Westerhoff</strong><br/>
+  <code>GREY HAT</code><br/>
+  <em>Hardware Engineer &middot; Drone Builder</em>
+</td>
 </tr>
 </table>
 

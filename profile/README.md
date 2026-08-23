@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/snapkitty-logo.png" width="140" />
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/snapkitty-logo.png" width="140" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/snapkitty-hero.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/snapkitty-hero.png" width="100%" />
 </p>
 
 <h1 align="center">SNAPKITTY COLLECTIVE</h1>
@@ -30,7 +30,7 @@
 <table>
 <tr>
 <td align="center" width="240">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/ahmad-avatar.jpg" width="180" style="border-radius:12px" /><br/><br/>
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/ahmad-avatar.jpg" width="180" style="border-radius:12px" /><br/><br/>
   <strong>Ahmad Ali Parr</strong><br/>
   <code>OPERATOR → ARCHITECT</code><br/>
   <em>Founder · Traveling Rebel</em><br/>
@@ -38,7 +38,7 @@
   Hamilton AL → Isla Vista → Bay Area
 </td>
 <td align="center" width="240">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/jessica-avatar.png" width="180" style="border-radius:12px" /><br/><br/>
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/jessica-avatar.png" width="180" style="border-radius:12px" /><br/><br/>
   <strong>Jessica L. Williams</strong><br/>
   <code>SNAPKITTYWEST</code><br/>
   <em>Co-Founder · Operator</em><br/>
@@ -53,7 +53,7 @@
 ## The Agents
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/agents-mesh.png" width="100%" />
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/agents-mesh.png" width="100%" />
 </p>
 
 Every sovereign agent runs as a **6502 VM guest** on the ARM64 EL2 hypervisor.  
@@ -79,7 +79,7 @@ Hardware-isolated. WORM-sealed. ERE-gated.
 ## The Mathematics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/alg-art.png" width="480" />
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/alg-art.png" width="480" />
 </p>
 
 <p align="center"><em>g₅(13) — a novel Lie algebra over ℤ[1/12] not in the Cartan-Killing classification.<br/>
@@ -111,7 +111,7 @@ Hardware-isolated. WORM-sealed. ERE-gated.
 ## The World
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/main/profile/civic-minefield.webp" width="100%" />
+  <img src="https://raw.githubusercontent.com/SNAPKITTYWEST/.github/master/profile/civic-minefield.webp" width="100%" />
 </p>
 
 <p align="center"><em>SnapKitty's Civic Minefield — Build for Good.<br/>
